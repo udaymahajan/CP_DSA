@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CP_Array/CP_Array.iml" filepath="$PROJECT_DIR$/CP_Array/CP_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/CP_DSA.iml" filepath="$PROJECT_DIR$/CP_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CP_String/CP_String.iml" filepath="$PROJECT_DIR$/CP_String/CP_String.iml" />
     </modules>
   </component>
 </project>
